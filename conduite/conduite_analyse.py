@@ -53,4 +53,4 @@ plt.grid(True)
 # Affichage
 plt.show()
 # Correction
-pytest.main(['-q', '--tb=long', 'conduite_corr.py'])
+pytest.main(['-q', '--tb=long', '/workspaces/gchprojectV2/conduite/conduite_corr.py'])
